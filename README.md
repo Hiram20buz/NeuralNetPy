@@ -10,3 +10,7 @@ https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-ne
 https://www.pluralsight.com/guides/deep-learning-model-add
 
 https://python-course.eu/machine-learning/simple-neural-network-from-scratch-in-python.php
+
+https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing#scrollTo=Hy_pAhzDZ4gy
+
+https://www.pluralsight.com/guides/deep-learning-model-add
